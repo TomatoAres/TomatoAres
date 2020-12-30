@@ -13,10 +13,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![language used](https://github-readme-stats.vercel.app/api/top-langs/?username=tomatoares&hide=html,css,javascript)
 -->
 
+- 🔭 I’m currently working on **kubernetes,cni**...
+- 🌱 I’m currently learning **client-go**
+- 📫 How to reach me: cshuaijie@163.com
+- 😄 Pronouns: **Stay hangry,Stay foolish**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=TomatoAres&show_icons=true)
-
-![language used](https://github-readme-stats.vercel.app/api/top-langs/?username=tomatoares&hide=html,css)
-
+![github stats](https://github-readme-stats.vercel.app/api?username=TomatoAres&show_icons=true)   

@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 ![language used](https://github-readme-stats.vercel.app/api/top-langs/?username=tomatoares&hide=html,css,javascript)
 -->
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TomatoAres&show_icons=true" />
+
 - 🔭 I’m currently working on **kubernetes,cni**...
 - 🌱 I’m currently learning **client-go**
 - 📫 How to reach me: cshuaijie@163.com
 - 😄 Pronouns: **Stay hangry,Stay foolish**
 
-![github stats](https://github-readme-stats.vercel.app/api?username=TomatoAres&show_icons=true)   
+
+
